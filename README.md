@@ -203,26 +203,20 @@ const contact = {
 
 ### 🔗 Web3 & Blockchain
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/eb5b2211-e193-4f47-8c5f-b87b2c0e8f1c" width="48" height="48" alt="Ethereum" />
-<br>Ethereum
-</td>
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/a5c6d5b4-9be5-4e2a-96f7-8eeb5e09e90f" width="48" height="48" alt="Web3.js" />
-<br>Web3.js
-</td>
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/7c7f79cc-58e0-44ae-a6a0-d8db2e3a4a12" width="48" height="48" alt="Smart Contracts" />
-<br>Contracts
-</td>
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/f3e261c3-f1c7-4ad2-98b8-f0e569b4e1c8" width="48" height="48" alt="DeFi" />
-<br>DeFi
-</td>
-</tr>
-</table>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=000000&labelColor=00FF41)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&color=000000&labelColor=00FF41)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white&color=000000&labelColor=00FF41)
+![DeFi](https://img.shields.io/badge/DeFi-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&color=000000&labelColor=00FF41)
+![NFTs](https://img.shields.io/badge/NFTs-FF6B6B?style=for-the-badge&logo=opensea&logoColor=white&color=000000&labelColor=00FF41)
+![Airdrops](https://img.shields.io/badge/Airdrops-00D4FF?style=for-the-badge&logo=bitcoin&logoColor=white&color=000000&labelColor=00FF41)
+
+**🎯 Web3 Specializations:**
+- 💰 **Airdrop Hunting & Strategies** - Early adopter & testnet contributor
+- 🏦 **DeFi Protocols** - Yield farming, staking, liquidity provision
+- 🎨 **NFT Trading & Minting** - Active in NFT ecosystems
+- 🧪 **Testnet Contributor** - Testing new blockchain protocols
+- 📊 **Kaito Research** - Project analysis & content creation
+- 🤝 **Community Contributor** - Active in Web3 communities
 
 ### 🛠️ Tools & DevOps
 
@@ -270,56 +264,151 @@ n8n_expertise:
   level: "Expert"
   workflows_created: "50+"
   specializations:
-    - Complex Workflow Orchestration
-    - Multi-API Integration & Synchronization
-    - Real-time Data Processing Pipelines
-    - Intelligent Chatbot Development
-    - Email Marketing Automation
-    - Database Operations & ETL
-    - Webhook & Event-Driven Architecture
-    - AI/ML Integration (ChatGPT, Claude, etc.)
-    - CRM & Business Process Automation
-    - Social Media Management Automation
+    automation:
+      - "Social Media Auto-Posting (Twitter, Facebook, LinkedIn, Telegram)"
+      - "Google Sheets Data Processing & Synchronization"
+      - "Multi-Platform Content Distribution"
+      - "Intelligent Chatbot Development (Telegram, Discord, WhatsApp)"
+      - "Web Scraping & Data Collection Pipelines"
+      - "Business Process Automation (CRM, ERP Integration)"
+      - "Email Marketing Automation Campaigns"
+      - "Real-time Notifications & Alerts System"
+      - "Database ETL & Data Transformation"
+      - "API Integration & Webhook Management"
+    
+  use_cases:
+    chatbots:
+      - "AI-powered customer support bots"
+      - "Lead generation & qualification"
+      - "FAQ automation with NLP"
+    
+    data_collection:
+      - "Competitor analysis & market research"
+      - "Price monitoring & tracking"
+      - "News & content aggregation"
+    
+    business_automation:
+      - "Invoice processing & accounting"
+      - "Inventory management systems"
+      - "Employee onboarding workflows"
+      - "Report generation & distribution"
     
   integrations:
-    apis: ["REST", "GraphQL", "WebSocket"]
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
-    platforms: ["Telegram", "Discord", "Slack", "Email", "SMS"]
-    ai_tools: ["OpenAI", "Claude", "Gemini", "Stable Diffusion"]
-    web3: ["Ethereum", "Smart Contracts", "Wallet Operations"]
+    data_sources: ["Google Sheets", "Airtable", "Excel", "CSV", "APIs"]
+    social_media: ["Twitter/X", "Facebook", "LinkedIn", "Instagram", "Telegram"]
+    messaging: ["Telegram Bots", "Discord", "Slack", "WhatsApp"]
+    ai_tools: ["OpenAI GPT", "Claude AI", "Gemini", "Custom ML Models"]
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Supabase"]
+    business_tools: ["CRM", "ERP", "Email Services", "Payment Gateways"]
 ```
 
 <div align="center">
 
-### 🔄 Automation Workflow Architecture
+### 🔄 Social Media Auto-Posting Workflow
 
 ```mermaid
 graph TB
-    A[🎯 Trigger Events] --> B{n8n Router}
-    B -->|API Calls| C[🌐 External APIs]
-    B -->|Database| D[💾 Data Operations]
-    B -->|AI Processing| E[🤖 AI Integration]
-    B -->|Notifications| F[📧 Multi-Channel Alerts]
+    Start[📊 Google Sheets<br/>Content Database] -->|Read New Posts| Check{Check Status}
     
-    C --> G[🔄 Data Transformation]
-    D --> G
-    E --> G
+    Check -->|New Content| Process[🔄 n8n Processing<br/>Content Formatter]
+    Check -->|Already Posted| End1[⏸️ Skip]
     
-    G --> H[⚡ Business Logic]
-    H --> I[📊 Analytics & Logging]
-    H --> J[🚀 Final Execution]
+    Process --> Transform[⚡ Data Transform<br/>- Add hashtags<br/>- Format text<br/>- Optimize images]
     
-    J --> K[✅ Success Handler]
-    J --> L[❌ Error Handler]
+    Transform --> Schedule{Schedule<br/>Ready?}
     
-    K --> M[📈 Metrics Dashboard]
-    L --> N[🔔 Alert System]
+    Schedule -->|Now| Post[📤 Multi-Post]
+    Schedule -->|Later| Queue[⏰ Add to Queue]
     
-    style B fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:3px
-    style G fill:#00FF41,stroke:#00FF41,color:#000
-    style H fill:#00FF41,stroke:#00FF41,color:#000
-    style J fill:#00FF41,stroke:#00FF41,color:#000
+    Post --> Twitter[🐦 Twitter/X API]
+    Post --> Facebook[📘 Facebook API]
+    Post --> LinkedIn[💼 LinkedIn API]
+    Post --> Telegram[💬 Telegram Bot]
+    
+    Twitter --> Verify1{Success?}
+    Facebook --> Verify2{Success?}
+    LinkedIn --> Verify3{Success?}
+    Telegram --> Verify4{Success?}
+    
+    Verify1 -->|✅ Yes| Update1[Update Sheet:<br/>✅ Posted]
+    Verify1 -->|❌ No| Retry1[🔁 Retry Logic]
+    
+    Verify2 -->|✅ Yes| Update2[Update Sheet:<br/>✅ Posted]
+    Verify2 -->|❌ No| Retry2[🔁 Retry Logic]
+    
+    Verify3 -->|✅ Yes| Update3[Update Sheet:<br/>✅ Posted]
+    Verify3 -->|❌ No| Retry3[🔁 Retry Logic]
+    
+    Verify4 -->|✅ Yes| Update4[Update Sheet:<br/>✅ Posted]
+    Verify4 -->|❌ No| Retry4[🔁 Retry Logic]
+    
+    Update1 --> Analytics[📊 Analytics<br/>Dashboard]
+    Update2 --> Analytics
+    Update3 --> Analytics
+    Update4 --> Analytics
+    
+    Retry1 --> ErrorLog[❌ Error Logger]
+    Retry2 --> ErrorLog
+    Retry3 --> ErrorLog
+    Retry4 --> ErrorLog
+    
+    ErrorLog --> Notify[🔔 Admin Alert<br/>Telegram/Email]
+    
+    Analytics --> Report[📈 Daily Report<br/>- Posts published<br/>- Engagement stats<br/>- Failed attempts]
+    
+    Queue --> ScheduleCheck[⏰ Schedule Checker<br/>Every 15 min]
+    ScheduleCheck -->|Time matched| Post
+    
+    style Start fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:3px
+    style Process fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:2px
+    style Transform fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:2px
+    style Post fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:3px
+    style Analytics fill:#00FF41,stroke:#00FF41,color:#000,stroke-width:2px
+    style Twitter fill:#1DA1F2,stroke:#1DA1F2,color:#fff
+    style Facebook fill:#1877F2,stroke:#1877F2,color:#fff
+    style LinkedIn fill:#0A66C2,stroke:#0A66C2,color:#fff
+    style Telegram fill:#26A5E4,stroke:#26A5E4,color:#fff
 ```
+
+### 🎯 Real-World Automation Examples
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🤖 Chatbot Systems**
+- Multi-platform support bots
+- AI-powered FAQs
+- Lead qualification
+- Customer service automation
+- Order tracking systems
+- Appointment scheduling
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Data Collection**
+- Competitor price monitoring
+- News & trend aggregation
+- Social media scraping
+- Market research automation
+- Product review collection
+- SEO data tracking
+
+</td>
+<td width="33%" valign="top">
+
+**🏢 Business Automation**
+- CRM data synchronization
+- Invoice & payment processing
+- Inventory management
+- Employee onboarding
+- Report generation
+- Email campaign automation
+
+</td>
+</tr>
+</table>
 
 ### 💡 Automation Capabilities
 

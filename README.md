@@ -213,7 +213,7 @@ const contact = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 <b>Airdrop Hunting</b><br>
 <sub>Early adopter & testnet contributor</sub>
 </td>
@@ -223,24 +223,24 @@ const contact = {
 <sub>Yield farming, staking, liquidity provision</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
 <b>NFT Trading</b><br>
 <sub>Active in NFT ecosystems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
 <b>Testnet Contributor</b><br>
 <sub>Testing new blockchain protocols</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"><br>
 <b>Kaito Research</b><br>
 <sub>Project analysis & content creation</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 <b>Community Contributor</b><br>
 <sub>Active in Web3 communities</sub>
 </td>
@@ -269,7 +269,7 @@ const contact = {
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="48" height="48" alt="n8n" />
+<img src="https://img.icons8.com/color/96/000000/n8n.png" width="48" height="48" alt="n8n" />
 <br>n8n
 </td>
 </tr>
@@ -613,57 +613,79 @@ Database Design    ████████░░ 75%
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
-<br><br>
-
-```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                      ┃
-┃   💬 Open for collaborations, freelance projects,   ┃
-┃      and interesting blockchain opportunities!       ┃
-┃                                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br>
-
-### 📬 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-minhduc2510.work@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:minhduc2510.work@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect_with_me-00FF41?style=for-the-badge&logo=facebook&logoColor=black&labelColor=0D1117)](YOUR_FACEBOOK_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-@stormz9081-00FF41?style=for-the-badge&logo=x&logoColor=black&labelColor=0D1117)](https://twitter.com/stormz9081)
-[![Zalo](https://img.shields.io/badge/Zalo-0368424724-00FF41?style=for-the-badge&logo=messenger&logoColor=black&labelColor=0D1117)](https://zalo.me/0368424724)
-
-<br>
-
-### 📍 Location & Availability
-
-```javascript
-const availability = {
-  location: "📍 Ha Noi, Vietnam",
-  timezone: "GMT+7 (ICT)",
-  workingHours: "Flexible",
-  responseTime: "< 24 hours",
-  openTo: ["Remote Work", "Freelance", "Collaboration", "Full-time"],
-  languages: ["Vietnamese (Native)", "English (Professional)"]
-};
-```
-
-<br>
-
-### 💌 Response Time
-
-| Channel | Response Time | Best For |
-|:-------:|:-------------:|:--------:|
-| 📧 Email | < 24 hours | Professional inquiries |
-| 💬 Zalo | < 2 hours | Quick questions |
-| 🐦 Twitter | < 12 hours | Public discussions |
-| 📘 Facebook | < 6 hours | Casual conversations |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<a href="mailto:minhduc2510.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117"/>
+</a><br>
+<sub>minhduc2510.work@gmail.com</sub><br>
+<sub>Response: < 24 hours</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<a href="YOUR_FACEBOOK_LINK">
+<img src="https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=black&labelColor=0D1117"/>
+</a><br>
+<sub>Connect with me</sub><br>
+<sub>Response: < 6 hours</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<a href="https://twitter.com/stormz9081">
+<img src="https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=x&logoColor=black&labelColor=0D1117"/>
+</a><br>
+<sub>@stormz9081</sub><br>
+<sub>Response: < 12 hours</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<a href="https://zalo.me/0368424724">
+<img src="https://img.shields.io/badge/Zalo-00FF41?style=for-the-badge&logo=messenger&logoColor=black&labelColor=0D1117"/>
+</a><br>
+<sub>0368424724</sub><br>
+<sub>Response: < 2 hours</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+### 📍 Availability & Location
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<b>Location</b><br>
+Ha Noi, Vietnam<br>
+GMT+7 (ICT)
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<b>Status</b><br>
+Available for projects<br>
+Open to opportunities
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<b>Work Mode</b><br>
+Remote • Flexible<br>
+Freelance • Full-time
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<b>Languages</b><br>
+Vietnamese (Native)<br>
+English (Professional)
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="500">
 
 </div>
 

@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là [Tên của bạn]!
+# 👋 Xin chào, tôi là Minh Đức!
 
 <div align="center">
   

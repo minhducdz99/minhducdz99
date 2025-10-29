@@ -99,6 +99,36 @@ const minhDuc = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000&labelColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=00FF41)
 
+<br>
+
+### 🤖 n8n Automation Specialist
+
+<div style="background: linear-gradient(90deg, #0D1117 0%, #1a1a1a 50%, #0D1117 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FF41;">
+
+```mermaid
+graph LR
+    A[📥 Trigger] -->|n8n Magic| B[🔄 Process]
+    B -->|Automate| C[⚡ Transform]
+    C -->|Deploy| D[🚀 Execute]
+    D -->|Monitor| E[📊 Analytics]
+    
+    style A fill:#00FF41,stroke:#00FF41,color:#000
+    style B fill:#00FF41,stroke:#00FF41,color:#000
+    style C fill:#00FF41,stroke:#00FF41,color:#000
+    style D fill:#00FF41,stroke:#00FF41,color:#000
+    style E fill:#00FF41,stroke:#00FF41,color:#000
+```
+
+**🔗 Workflow Automation Skills:**
+- 🎯 Complex workflow orchestration
+- 🔄 API integrations & data sync
+- 📧 Email automation & notifications
+- 💾 Database operations automation
+- 🤖 Chatbot & AI integrations
+- 📊 Data processing pipelines
+
+</div>
+
 ### 🔗 Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=000000&labelColor=00FF41)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white&color=000000&labelColor=00FF41)

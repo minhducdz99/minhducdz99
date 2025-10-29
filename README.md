@@ -6,40 +6,47 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td>
+## 🎯 WHO AM I?
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Profile
+
+- 🏷️ **Name:** Minh Duc
+- 📍 **Location:** Ha Noi, Vietnam 🇻🇳
+- 💼 **Role:** Fullstack Developer & Automation Expert
+- 📧 **Email:** minhduc2510.work@gmail.com
+- 💬 **Zalo:** 0368424724
+
+### 🚀 Current Mission
+
+Building decentralized applications and automating the future, one workflow at a time.
+
+### 💭 Philosophy
+
+*"No money no problem, no ChatGPT big problem"* 😄
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  👤 NAME        →  Minh Duc                                   ║
-║  📍 LOCATION    →  Ha Noi, Vietnam 🇻🇳                        ║
-║  💼 ROLE        →  Fullstack Developer & Automation Expert    ║
-║                                                                ║
-║  ⚡ EXPERTISE                                                  ║
-║     ├─ Web3 & Blockchain Development                          ║
-║     ├─ DeFi Protocols & Smart Contracts                       ║
-║     ├─ n8n Workflow Automation                                ║
-║     ├─ Full-stack Web Development                             ║
-║     └─ AI Integration & Chatbot Systems                       ║
-║                                                                ║
-║  🎯 CURRENT MISSION                                            ║
-║     Building decentralized applications and automating        ║
-║     the future, one workflow at a time.                       ║
-║                                                                ║
-║  💭 LIFE PHILOSOPHY                                            ║
-║     "No money no problem, no ChatGPT big problem" 😄          ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+### ⚡ Expertise
+
+<img src="https://img.shields.io/badge/Web3_Development-Expert-00FF41?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Blockchain_&_DeFi-Advanced-00FF41?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-Intermediate-00FF41?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/n8n_Automation-Expert-00FF41?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Full_Stack-Advanced-00FF41?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AI_Integration-Intermediate-00FF41?style=flat-square&labelColor=0D1117"/>
+
+### 🎯 Focus Areas
+
+- 💰 Airdrop Hunting & DeFi Strategies
+- 🎨 NFT Trading & Minting
+- 🤖 Chatbot Development
+- 📊 Data Scraping & Analysis
+- 🏢 Business Process Automation
 
 </td>
 </tr>

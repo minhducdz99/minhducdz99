@@ -6,53 +6,44 @@
 
 <br>
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+<table align="center">
+<tr>
+<td>
 
-contract MinhDucProfile {
-    
-    struct Developer {
-        string name;
-        string location;
-        string role;
-        string[] skills;
-        mapping(string => bool) expertise;
-    }
-    
-    Developer public dev;
-    
-    constructor() {
-        dev.name = "Minh Duc";
-        dev.location = "Ha Noi, Vietnam 🇻🇳";
-        dev.role = "Fullstack Developer & Automation Specialist";
-        
-        dev.expertise["Web3"] = true;
-        dev.expertise["Blockchain"] = true;
-        dev.expertise["DeFi"] = true;
-        dev.expertise["Smart Contracts"] = true;
-        dev.expertise["Automation"] = true;
-    }
-    
-    function getSkills() public pure returns (string[] memory) {
-        string[] memory skills = new string[](7);
-        skills[0] = "Java";
-        skills[1] = "JavaScript/React.js";
-        skills[2] = "TailwindCSS";
-        skills[3] = "Prisma";
-        skills[4] = "n8n Automation";
-        skills[5] = "Web3 Development";
-        skills[6] = "Smart Contracts";
-        return skills;
-    }
-    
-    function getMotto() public pure returns (string memory) {
-        return "No money no problem, no ChatGPT big problem";
-    }
-}
+## 👨‍💻 About Me
+
+</td>
+</tr>
+<tr>
+<td>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  👤 NAME        →  Minh Duc                                   ║
+║  📍 LOCATION    →  Ha Noi, Vietnam 🇻🇳                        ║
+║  💼 ROLE        →  Fullstack Developer & Automation Expert    ║
+║                                                                ║
+║  ⚡ EXPERTISE                                                  ║
+║     ├─ Web3 & Blockchain Development                          ║
+║     ├─ DeFi Protocols & Smart Contracts                       ║
+║     ├─ n8n Workflow Automation                                ║
+║     ├─ Full-stack Web Development                             ║
+║     └─ AI Integration & Chatbot Systems                       ║
+║                                                                ║
+║  🎯 CURRENT MISSION                                            ║
+║     Building decentralized applications and automating        ║
+║     the future, one workflow at a time.                       ║
+║                                                                ║
+║  💭 LIFE PHILOSOPHY                                            ║
+║     "No money no problem, no ChatGPT big problem" 😄          ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+</td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+Fullstack+Developer;%F0%9F%94%97+Web3+%26+Blockchain+Enthusiast;%F0%9F%A4%96+n8n+Automation+Expert;%F0%9F%9A%80+Building+the+Decentralized+Future" alt="Typing SVG" />
 

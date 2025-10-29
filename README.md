@@ -208,13 +208,45 @@ const contact = {
 ![NFTs](https://img.shields.io/badge/NFTs-FF6B6B?style=for-the-badge&logo=opensea&logoColor=white&color=000000&labelColor=00FF41)
 ![Airdrops](https://img.shields.io/badge/Airdrops-00D4FF?style=for-the-badge&logo=bitcoin&logoColor=white&color=000000&labelColor=00FF41)
 
-**🎯 Web3 Specializations:**
-- 💰 **Airdrop Hunting & Strategies** - Early adopter & testnet contributor
-- 🏦 **DeFi Protocols** - Yield farming, staking, liquidity provision
-- 🎨 **NFT Trading & Minting** - Active in NFT ecosystems
-- 🧪 **Testnet Contributor** - Testing new blockchain protocols
-- 📊 **Kaito Research** - Project analysis & content creation
-- 🤝 **Community Contributor** - Active in Web3 communities
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Airdrop Hunting</b><br>
+<sub>Early adopter & testnet contributor</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>DeFi Protocols</b><br>
+<sub>Yield farming, staking, liquidity provision</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>NFT Trading</b><br>
+<sub>Active in NFT ecosystems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Testnet Contributor</b><br>
+<sub>Testing new blockchain protocols</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Kaito Research</b><br>
+<sub>Project analysis & content creation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Community Contributor</b><br>
+<sub>Active in Web3 communities</sub>
+</td>
+<td colspan="2"></td>
+</tr>
+</table>
 
 ### 🛠️ Tools & DevOps
 
@@ -235,6 +267,10 @@ const contact = {
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="48" height="48" alt="n8n" />
+<br>n8n
 </td>
 </tr>
 </table>

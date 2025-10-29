@@ -135,21 +135,7 @@ const minhDuc = {
 
 </div>
 
-## 🎯 ./featured_projects
 
-<div align="center">
-
-<a href="https://github.com/minhducdz99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhducdz99&repo=YOUR_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
-</a>
-
-<a href="https://github.com/minhducdz99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhducdz99&repo=YOUR_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
-</a>
-
-</div>
-
-<br>
 
 ## 💼 ./current_status
 

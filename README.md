@@ -10,7 +10,6 @@ Ha Noi, Vietnam 🇻🇳
 
 [![Email](https://img.shields.io/badge/minhduc2510.work@gmail.com-00FF41?style=flat-square&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:minhduc2510.work@gmail.com)
 [![Twitter](https://img.shields.io/badge/@stormz9081-00FF41?style=flat-square&logo=x&logoColor=000&labelColor=0D1117)](https://twitter.com/stormz9081)
-[![Zalo](https://img.shields.io/badge/0368424724-00FF41?style=flat-square&logo=messenger&logoColor=000&labelColor=0D1117)](https://zalo.me/0368424724)
 
 ---
 
@@ -140,7 +139,6 @@ Automated content distribution to Twitter, Facebook, LinkedIn, and Telegram. Sch
 
 [![Email](https://img.shields.io/badge/Email-minhduc2510.work@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:minhduc2510.work@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@stormz9081-00FF41?style=for-the-badge&logo=x&logoColor=000&labelColor=0D1117)](https://twitter.com/stormz9081)
-[![Zalo](https://img.shields.io/badge/Zalo-0368424724-00FF41?style=for-the-badge&logo=messenger&logoColor=000&labelColor=0D1117)](https://zalo.me/0368424724)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhducdz99&color=00FF41&style=flat-square)
 
